@@ -13,6 +13,6 @@
     "yarn": "^1.22.22"
   },
   "devDependencies": {
-    "cypress": "^13.14.2"
+    "cypress": "^13.17.0"
   }
 }
